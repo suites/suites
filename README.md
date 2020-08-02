@@ -8,4 +8,4 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuites%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-[![yoon.homme's github stats](https://github-readme-stats.vercel.app/api?username=suites)](https://github.com/suites/github-readme-stats)
+[![yoon.homme's github stats](https://github-readme-stats.vercel.app/api?username=suites&show_icons=true&theme=prussian)](https://github.com/suites/github-readme-stats)
