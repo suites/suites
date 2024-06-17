@@ -1,7 +1,7 @@
-### Hi there 🐤 윤옴므 입니다. 
+### Hi there 윤옴므 입니다. 
 [https://suitee.me](https://suitee.me)
 
-- 🔭 I’m currently working on [Kakao Style Corp.](https://kakaostyle.com/)
+- 🔭 I’m currently working on [Law&Company Corp.](https://www.lawtalk.is/lawcompany)
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org)
 - 💬 Ask me about 개발을 좋아하고 🚴 자전거와 🎳 볼링을 좋아합니다
 - 📫 How to reach me: woosiks.io@gmail.com
